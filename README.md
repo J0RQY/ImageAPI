@@ -1,6 +1,6 @@
 # ImageAPI
 
-A professional, fast, and developer-friendly image API built with PHP and Symfony. Fetch, serve, and manage images with a clean REST interface — inspired by the simplicity of APIs like NASA's Image Library.
+A professional, fast, and developer-friendly image API built with PHP and Symfony. Fetch, serve, and manage images with a clean REST interface. Inspired by the simplicity of APIs like NASA's Image Library.
 
 ---
 
