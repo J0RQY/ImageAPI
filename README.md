@@ -54,7 +54,7 @@ php bin/console doctrine:migrations:migrate
 Start the development server:
 
 ```bash
-symfony server:start.
+symfony server:start
 ```
 
 ---
